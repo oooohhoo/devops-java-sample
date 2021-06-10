@@ -14,9 +14,10 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'docker.io'
-        DOCKERHUB_NAMESPACE = 'docker_username'
-        GITHUB_ACCOUNT = 'kubesphere'
+        DOCKERHUB_NAMESPACE = 'yebokang'
+        GITHUB_ACCOUNT = 'oooohhoo'
         APP_NAME = 'devops-java-sample'
+        SONAR_CREDENTIAL_ID = '26ef4a17e09d28d5417fe3e55084cf7035cf4d96'
     }
 
     stages {
